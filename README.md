@@ -1,4 +1,4 @@
-# Aplica-o-para-Gerenciamento-de-Eventos
+# Aplicações-para-Gerenciamento-de-Eventos
 
 A aplicação para gerenciamento de eventos é uma solução desktop desenvolvida em Java Swing, projetada
 para facilitar a organização e administração de eventos, desde o registro de participantes até o controle de
